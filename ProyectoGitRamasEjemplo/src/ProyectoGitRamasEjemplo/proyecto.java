@@ -6,5 +6,8 @@ public class proyecto {
 		System.out.println("hello mundo");
 
 	}
+	public static void imprimeSaludo() { 
+		System.out.println(“Hei”);    
+	}
 
 }
